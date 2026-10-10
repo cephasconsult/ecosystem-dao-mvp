@@ -1,0 +1,26 @@
+# Ecosystem DAO: MVP prototype
+
+One shared rulebook for social enterprises, non-profits and for-profit organizations.
+Built for the Dolphin Tank India Social Impact Hackathon.
+
+**Team:** Pradeep Shampur, Cephas Consultancy Services Private Limited
+
+## What the prototype shows
+- Join as a social enterprise, non-profit or for-profit (equal voting power per member type)
+- Proposals with balanced voting and an AI-style summary (scripted stand-in)
+- Impact registry: an independent verifier confirms milestone evidence
+- Multi-signature treasury: 2 of 3 signatures release funds for verified milestones
+- Auto-play demo tour (tap "Demo")
+
+## Run it
+Open `index.html` in any browser. It is a single file with no build step.
+
+## Live demo
+Enable GitHub Pages (Settings, Pages, Deploy from branch `main`, folder `/root`).
+
+## Demo assets
+- `demo/Ecosystem_DAO_Demo_Video.mp4`: 5-minute narrated walkthrough
+- `demo/Ecosystem_DAO_SIH_Pitch_Deck_Final.pptx`: pitch deck
+
+## Note
+All data is simulated. There is no real wallet, blockchain or funds; the smart-contract rules are modelled in the browser.
